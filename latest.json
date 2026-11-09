@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "url": "https://github.com/zhangyansong0802-hub/YuanYuZhou/releases/download/v1.0.1/app-release.apk",
-  "note": "1.修复了CDK识别异常的问题。\n2.修复了版本更新后的版本号显示异常的问题。"
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "url": "https://github.com/zhangyansong0802-hub/YuanYuZhou/releases/download/v1.0.2/app-release.apk",
+  "note": "1.注册遇到网络中断时自动恢复，不再需要反复手动重试。\n2.注册与资料修改全面强制必填校验。\n3.关于页图标与版本号显示修正。"
 }
