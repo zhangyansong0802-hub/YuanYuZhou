@@ -1,6 +1,0 @@
-{
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "url": "https://github.com/zhangyansong0802-hub/YuanYuZhou/releases/download/v1.0.2/app-release.apk",
-  "note": "1.注册遇到网络中断时自动恢复，不再需要反复手动重试。\n2.注册与资料修改全面强制必填校验。\n3.关于页图标与版本号显示修正。"
-}
