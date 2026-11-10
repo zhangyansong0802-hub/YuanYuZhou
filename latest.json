@@ -2,5 +2,5 @@
     "versionCode":  4,
     "versionName":  "1.0.3",
     "url":  "https://github.com/zhangyansong0802-hub/YuanYuZhou/releases/download/v1.0.3/app-release.apk",
-    "note":  "1.投屏控制页新增选集，换集无需退出重投\n2.投屏悬浮胶囊支持长按拖拽，位置会记住\n3.修复片源广告过滤的若干问题"
+    "note":  "请低于1.0.3版本的用户必须升级，否则将收不到未来的更新提示！！！\n 1.投屏控制页新增选集。\n 2.投屏悬浮胶囊支持长按拖拽。\n 3.优化片源广告过滤的问题。"
 }
