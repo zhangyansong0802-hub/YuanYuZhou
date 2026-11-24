@@ -1,0 +1,16 @@
+{
+  "versionCode": ,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/zhangyansong0802-hub/YuanYuZhou/releases/download/v1.0.1/TVBox-v1.0.1.apk",
+  "url": "https://github.com/zhangyansong0802-hub/YuanYuZhou/releases/download/v1.0.1/TVBox-v1.0.1.apk",
+  "apkSha256": "675BBF4F5EB8E749CC11D49CFA446B3368F76415405C0C47FB962409928B53E5",
+  "apkSize": 5123363,
+  "force": false,
+  "changelog": [
+    "修复 HD(SN) 片源报错「MacCms 响应既不是 json 也不是 xml，首字符为'4'：4366，xxxxx」：网关对该源的个别分类会返回被截断的响应体，客户端现在能识别这种坏响应并自动换参数组合重试，全部组合都失败时本地抢救已拼好的条目",
+    "分类、列表、详情、找同名片四类请求统一接入参数组合回退，只有「响应被截断」才重试，源明确不支持的操作不再无谓重试",
+    "采集站的人话提示转成友好文案：「暂不支持搜索」显示为「这条线路不支持搜索，换一条线路试试」",
+    "新增真实响应体测试样本，锁定网关截断缺陷的识别、抢救与回退行为"
+  ],
+  "note": "TVBox v1.0.1\n1.修复 HD(SN) 片源报错。\n2.分类、列表、详情、找同名片四类请求统一接入参数组合回退。"
+}
